@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I am a highly motivated software engineer with a passion for delivering quality solutions. <br>👯 With experience in AWS Kendra Search technology, Material UI React Typescript, Java API, and web analytics, I have a well-rounded skill set that allows me to tackle a variety of projects.<br>🌱 My experience includes setting up web analytics for various companies and performing data transformations using JavaScript, Python, and PHP. I am currently focused on building a search page using AWS Kendra and Material UI React Typescript, with a Java API in the backend.<br>💬 I am always striving to improve my skills and stay up-to-date with the latest technologies and trends in my field. <br>⚡ I believe that delivering quality work is the key to success in software engineering and I am dedicated to ensuring that every project I work on meets the highest standards.<br>🤝 If you are looking for a software engineer with a commitment to quality and a passion for delivering the best possible solutions, please don't hesitate to get in touch!<br><br><br><br><br><br><br>
+🔭 I am a highly motivated Software Engineer with a passion for delivering quality solutions. <br>
+🌱 I am currently focused on building a Material UI React Typescript search page using AWS Kendra and with a Java API in the backend. <br>
+👯 With experience as a AWS cloud architect and a Web Analytics Consultant performing data transformations using JavaScript, Python and PHP, I have a well-rounded skill set that allows me to tackle a variety of projects. <br>
+💬 I am always striving to improve my skills and stay up-to-date with the latest technologies and trends in my field. <br>
+⚡ I believe that delivering quality work is the key to success in software engineering and I am dedicated to ensuring that every project I work on meets the highest standards.<br>
+🤝 If you are looking for a software engineer with a commitment to quality and a passion for delivering the best possible solutions, please don't hesitate to get in touch!<br>
 
 
 ## 🌐 Socials:
